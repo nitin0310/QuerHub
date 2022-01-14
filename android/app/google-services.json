@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506280522313",
+    "project_id": "querhub",
+    "storage_bucket": "querhub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506280522313:android:b58da59bbd826745c8c598",
+        "android_client_info": {
+          "package_name": "com.example.querhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506280522313-c7ieqs9d211j3b59gets3mqigfsttjsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD11EsYIumLkoxCIoki1jfQZL5equeqhl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506280522313-c7ieqs9d211j3b59gets3mqigfsttjsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
